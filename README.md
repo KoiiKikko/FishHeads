@@ -1,5 +1,5 @@
 # FishHeads
-# Koii Network - FishHeads Project
+# Koii Network
 
 [![Koii Network Logo](https://koii.network/wp-content/uploads/2023/03/koi-fish.png)](https://koii.network/)
 
