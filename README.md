@@ -3,7 +3,7 @@
 
 [![Koii Network Logo](https://koii.network/wp-content/uploads/2023/03/koi-fish.png)](https://koii.network/)
 
-Welcome to the FishHeads project, an exciting initiative on the Koii Network! 🐟
+Welcome to FishHeads, The Pond Pioneers', an exciting initiative on the Koii Network! 🐟
 
 **What is FishHeads?**
 
@@ -11,8 +11,8 @@ FishHeads empowers you to become an active participant in the Koii ecosystem by 
 
 **Why Participate?**
 
-* **Earn KOI:**  Receive KOI tokens as you contribute to the network's strength and stability. 
-* **Shape the Future:** Be part of the Koi Pond community, helping to shape the future of the Koii Network.
+* **Earn Fish:**  Receive FISH tokens as you contribute to the network's strength and stability. 
+* **Shape the Future:** Be part of the Koii FishHeads community, helping to shape the future of the Koii Network.
 * **Unlock Opportunities:**  Your active participation may open doors to additional benefits and recognition within the Koii ecosystem. 
 
 **Getting Started**
@@ -24,15 +24,15 @@ https://github.com/KoiiKikko/FishHeads
 3. **Configure Your Node:** Follow the instructions in the `docs/` directory to set up your Koii node on the testnet.
 4. **Run Your Node:** Start your node and begin contributing to the network!
 
-**Join the Koi Pond!**
+**Join the Koii Pond! and become an official Koii FishHead**
 
 Ready to make a splash? Dive into the Koii Network and become a Koi Pond Pioneer today! 
 
 **Resources:**
 
 * **Koii Network Website:** [https://koii.network/](https://koii.network/)
-* **FishHeads Documentation:** [docs/](docs/) (replace with actual path)
-* **Koii Community:** Join our vibrant community on [Discord/Telegram/etc.](link to your community platform)
+* **FishHeads Documentation:**https://github.com/KoiiKikko/FishHeads/edit/main/README.md
+* **Koii Community:** Join our vibrant community on https://www.facebook.com/groups/933863151789100
 
 **Contribute**
 
