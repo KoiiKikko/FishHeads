@@ -16,12 +16,10 @@ FishHeads empowers you to become an active participant in the Koii ecosystem by 
 * **Unlock Opportunities:**  Your active participation may open doors to additional benefits and recognition within the Koii ecosystem. 
 
 **Getting Started**
-**Why Participate?**
+*
 
-**Why Participate?**
-
-
-1. **Clone this Repository:** `git clone https://github.com/your-username/koii-node-testing`
+https://github.com/KoiiKikko/FishHeads
+1. **Clone this Repository:** `git clone https:///https://github.com/KoiiKikko/FishHeads
 2. **Install Dependencies:** `npm install` 
 3. **Configure Your Node:** Follow the instructions in the `docs/` directory to set up your Koii node on the testnet.
 4. **Run Your Node:** Start your node and begin contributing to the network!
