@@ -1,18 +1,18 @@
-# FishHeads
+# Pond Pioneers
 # Koii Network
 
-[![Koii Network Logo](https://koii.network/wp-content/uploads/2023/03/koi-fish.png)](https://koii.network/)
+[![Koii Network Logo] https://www.canva.com/design/DAGR7XQUDEA/7dIY-1awXwk3uwXY7bbaXg/view?utm_content=DAGR7XQUDEA&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
-Welcome to FishHeads, The Pond Pioneers', an exciting initiative on the Koii Network! 🐟
+Welcome to The Pond Pioneers', an exciting initiative on the Koii Network! 🐟
 
-**What is FishHeads?**
+**What Are Pond Pioneers?**
 
-FishHeads empowers you to become an active participant in the Koii ecosystem by running a node. These nodes play a vital role in maintaining the network's health, security, and overall growth. As a reward for your contribution, you'll earn KOI tokens through an adaptive reward system inspired by the graceful Koi fish. 
+Pond Pioneersempowers you to become an active participant in the Koii ecosystem by running a node. These nodes play a vital role in maintaining the network's health, security, and overall growth. As a reward for your contribution, you'll earn KOI tokens through an adaptive reward system inspired by the graceful Koi fish. 
 
 **Why Participate?**
 
 * **Earn Fish:**  Receive FISH tokens as you contribute to the network's strength and stability. 
-* **Shape the Future:** Be part of the Koii FishHeads community, helping to shape the future of the Koii Network.
+* **Shape the Future:** Be part of the Koii Pond Pioneers community, helping to shape the future of the Koii Network.
 * **Unlock Opportunities:**  Your active participation may open doors to additional benefits and recognition within the Koii ecosystem. 
 
 **Getting Started**
