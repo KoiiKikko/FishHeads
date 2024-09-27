@@ -7,7 +7,7 @@ Welcome to The Pond Pioneers', an exciting initiative on the Koii Network! 🐟
 
 **What Are Pond Pioneers?**
 
-Pond Pioneersempowers you to become an active participant in the Koii ecosystem by running a node. These nodes play a vital role in maintaining the network's health, security, and overall growth. As a reward for your contribution, you'll earn KOI tokens through an adaptive reward system inspired by the graceful Koi fish. 
+Pond Pioneers empowers you to become an active participant in the Koii ecosystem by running a node. These nodes play a vital role in maintaining the network's health, security, and overall growth. As a reward for your contribution, you'll earn KOI tokens through an adaptive reward system inspired by the graceful Koi fish. 
 
 **Why Participate?**
 
